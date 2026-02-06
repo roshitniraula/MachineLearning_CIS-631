@@ -15,7 +15,8 @@ The goal is to contribute to responsible AI, safer online communities, and impro
 This dataset is an **expanded version** of the original [sumaiya-afroze/Multi-Label_Bangla_Hate_Speech_Data]([https://huggingface.co/datasets/sumaiya-afroze/Multi-Label_Bangla_Hate_Speech_Data/tree/main]) created by **Sumaiya Afroze**.  
 
 The original dataset provided a strong foundation for hate speech detection in the Bengali language. In this extended version, the dataset has been:  
-- **Expanded in size** with ~5000 additional Bengali social media comments.  
+- **Expanded in size** with ~5000 additional Bengali social media comments.
+- **Total dataset** comprises 35,001Bengali comments.
 - **Reclassified with fine-grained categories**, including: *Insult, Violence, Sexual, Racism, Religious, and No Hate*.  
 
 This makes the dataset suitable for **multi-label hate speech detection research**.  
