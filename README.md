@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on building a multi-language hate speech detection system designed to identify and classify hate speech on online content across two South-Asian languages, currently including Bengali and Nepali. With the rapid growth of social media communication in diverse linguistic communities, automated moderation tools often underperform for low-resource languages. This project aims to address that identified gap by developing a machine learning model and a deep learning model trained on expanded and carefully labeled multilingual datasets.
 
-hello this is silly me.
+
 
 The system leverages an extended Bengali hate speech dataset alongside Nepali hate speech dataset that are further combined to support both binary hate speech detection (hate vs. non-hate) and fine-grained multi-label classification such as insult, violence, sexual content, racism, and religious hate across both the languages. By doing this, the project explores cross-lingual learning, improved generalization, and scalable moderation solutions for multilingual digital environments.
 
@@ -12,7 +12,7 @@ The goal is to contribute to responsible AI, safer online communities, and impro
 ---
 
 ## Dataset Description
-This dataset is an **expanded version** of the original [Bengali Hate Speech Dataset](https://www.kaggle.com/datasets/naurosromim/bengali-hate-speech-dataset) created by **Hriteshwar Talukder** and **Md Saiful Islam**.  
+This dataset is an **expanded version** of the original [sumaiya-afroze/Multi-Label_Bangla_Hate_Speech_Data]([https://huggingface.co/datasets/sumaiya-afroze/Multi-Label_Bangla_Hate_Speech_Data/tree/main]) created by **Sumaiya Afroze**.  
 
 The original dataset provided a strong foundation for hate speech detection in the Bengali language. In this extended version, the dataset has been:  
 - **Expanded in size** with ~5000 additional Bengali social media comments.  
