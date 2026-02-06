@@ -23,7 +23,7 @@ size_categories:
 readme_text = """
 # Bangla Hate Speech Extended Dataset
 
-## 📖 Overview
+## Overview of DataSets
 This dataset is an **expanded version** of the original [Bengali Hate Speech Dataset](https://www.kaggle.com/datasets/naurosromim/bengali-hate-speech-dataset) created by **Hriteshwar Talukder** and **Md Saiful Islam**.  
 
 The original dataset provided a strong foundation for hate speech detection in the Bengali language. In this extended version, the dataset has been:  
