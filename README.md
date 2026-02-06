@@ -3,6 +3,8 @@
 ## Overview
 This project focuses on building a multi-language hate speech detection system designed to identify and classify hate speech on online content across two South-Asian languages, currently including Bengali and Nepali. With the rapid growth of social media communication in diverse linguistic communities, automated moderation tools often underperform for low-resource languages. This project aims to address that identified gap by developing a machine learning model and a deep learning model trained on expanded and carefully labeled multilingual datasets.
 
+hello this is silly me.
+
 The system leverages an extended Bengali hate speech dataset alongside Nepali hate speech dataset that are further combined to support both binary hate speech detection (hate vs. non-hate) and fine-grained multi-label classification such as insult, violence, sexual content, racism, and religious hate across both the languages. By doing this, the project explores cross-lingual learning, improved generalization, and scalable moderation solutions for multilingual digital environments.
 
 The goal is to contribute to responsible AI, safer online communities, and improved NLP resources for underrepresented languages, while supporting research in multilingual natural language processing, bias mitigation, and automated content moderation.
